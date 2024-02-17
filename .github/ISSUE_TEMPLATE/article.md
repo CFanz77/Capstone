@@ -29,11 +29,18 @@ citation: https://dl.acm.org/doi/10.5555/3201607.3201648
 
 ---
 
+name: A Novel Model based Energy Management Strategy for Plug-in Hybrid Electric Vehicles using Deep Reinforcement Learning
+about: This article talks more about the DRL and goes into a modified version of this called Deep Dyna-, these methods help to optimise the driving performance in variable driving conditions.
+title: 
+labels: 
+citation: https://dl.acm.org/doi/10.1145/3607947.3608004
+
+---
 name:
 about:
 title: 
 labels: 
-citation: 
+citation:
 
 ### Title
 
