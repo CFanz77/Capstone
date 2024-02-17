@@ -36,6 +36,13 @@ labels:
 citation: https://dl.acm.org/doi/10.1145/3607947.3608004
 
 ---
+name: Intelligent On-Line Energy Management System for Plug-in Hybrid Electric Vehicles based on Evolutionary Algorithm
+about: This article talks about how using evolutionary algorythms can help your EMS in vehicles to save up to 14% fuel
+title: 
+labels: 
+citation: https://dl.acm.org/doi/10.1145/2908961.2930948
+
+---
 name:
 about:
 title: 
